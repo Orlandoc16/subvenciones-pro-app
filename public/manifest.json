@@ -1,0 +1,22 @@
+{
+  "name": "SubvencionesPro - Buscador Profesional de Subvenciones",
+  "short_name": "SubvencionesPro",
+  "description": "Sistema profesional de búsqueda y gestión de subvenciones públicas españolas",
+  "version": "1.0.0",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3B82F6",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "es",
+  "categories": ["business", "finance", "government"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable any"
+    }
+  ]
+}
